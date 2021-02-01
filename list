@@ -571,6 +571,38 @@ NTV7,P2p://107.148.223.220:48918/5fc15ce60008dd13517d742d16545793.ts
 8TV,P2p://107.148.223.220:48918/5fc15ce60007f984517d73f3ffbced5d.ts
 TV9,P2p://107.148.223.220:48918/5fc15ce6000719dc517d73ba799319f3.ts
 
+台灣(rtmp),#genre#
+Fox Sports,rtmp://59.124.75.156:1935/sat/tv731
+Fox Sports2,rtmp://59.124.75.156:1935/sat/tv741
+民视,rtmp://59.124.75.156/sat/tv051
+台视,rtmp://59.124.75.156/sat/tv071
+中视,rtmp://59.124.75.157/sat/tv091
+华视,rtmp://59.124.75.156/sat/tv111
+大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+TVBS·欢乐台,rtmp://59.124.75.157/sat/tv421
+东森超视,rtmp://59.124.75.156/sat/tv771
+东森财经新闻,rtmp://59.124.75.157/sat/tv571
+纬来育乐,rtmp://59.124.75.157/sat/tv701
+纬来体育,rtmp://59.124.75.156/sat/tv721
+爱尔达体育一,rtmp://59.124.75.157/sat/md011
+MoMo综合台,rtmp://59.124.75.157/sat/tv761
+TVBS欢乐,rtmp://59.124.75.156:1935/sat/tv421
+TVBS新闻,rtmp://59.124.75.156:1935/sat/tv551
+东森新闻,rtmp://59.124.75.156:1935/sat/tv571
+纬来育乐,rtmp://59.124.75.156:1935/sat/tv701
+纬来体育,rtmp://59.124.75.156:1935/sat/tv721
+Mono综合,rtmp://59.124.75.156:1935/sat/tv761
+纬来日本,rtmp://59.124.75.156:1935/sat/tv771
+TVBS新聞,rtmp://59.124.75.156:1935/sat/tv551
+中天新聞,rtmp://59.124.75.156:1935/sat/tv521
+FOX体育,rtmp://59.124.75.156:1935/sat/tv731
+FOX2体育,rtmp://59.124.75.156:1935/sat/tv741
+mo综合台,rtmp://59.124.75.156:1935/sat/tv761
+TVBS新聞,rtmp://59.124.75.156/sat/tv551
+TVBS歡樂,rtmp://59.124.75.156/sat/tv421
+FOX体育2,rtmp://59.124.75.156:1935/sat/tv741
+
 中國,#genre#
 CCTV1,http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/8380729188125675257/1.m3u8?stbId=005301FF001589101611549359B92C46&channel-id=shvoolive&Contentid=8380729188125675257&mos=jbjhhzstsl&livemode=1&proto=7&version=1.0&owaccmark=8380729188125675257&owchid=shvoolive&owsid=9810361579531242552&AuthInfo=2TOfGIahP4HrGWrHbpJXVOhAZZf%2B%2BRvFCOimr7PCGr9K%2B8TGA2jGwhx%2FP%2B9zbDc6lyCFd7nUPkjV5yhX4M591q%2Bjz%2FVPZBSXzMBonFGRPep2MwYhKpmBifYKbDBIkjbE
 CCTV1,http://39.134.66.66/PLTV/88888888/224/3221225601/index.m3u8
@@ -688,6 +720,22 @@ BesTV電影頻道,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDoma
 BesTV精品電影,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 BesTV動畫頻道,http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 美麗中國4K,https://hls.cntv.baishancdnx.cn/asp/hls/8000/0303000a/3/default/9891cea600df4e8a83851b1b1ce23194/8000.m3u8
+
+輪播,#genre#
+周星驰,http://kuqq.tk/00/huya.php?id=11342412
+林正英,http://kuqq.tk/00/huya.php?id=11342421
+成龙,http://kuqq.tk/00/huya.php?id=11342386
+李连杰,http://kuqq.tk/00/huya.php?id=11342390
+吴京,http://kuqq.tk/00/huya.php?id=11602045
+刘德华,http://kuqq.tk/00/huya.php?id=11342424
+五福星,http://kuqq.tk/00/huya.php?id=11282233
+甄子丹,http://kuqq.tk/00/huya.php?id=11352935
+周润发,http://kuqq.tk/00/huya.php?id=11342387
+沈腾,http://kuqq.tk/00/huya.php?id=11601968
+洪金宝,http://kuqq.tk/00/huya.php?id=11342427
+徐峥,http://kuqq.tk/00/huya.php?id=11602043
+赌片,http://kuqq.tk/00/huya.php?id=11342399
+黑帮,http://kuqq.tk/00/huya.php?id=11336719
 
 兒童選集,#genre#
 熊熊乐园01,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b333914bfe2b49d793d41f3233505f5f/1200.m3u8
